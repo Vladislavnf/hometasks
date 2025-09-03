@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF8C6E-6545-495C-80FA-B8440EE58692}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FDF8C6E-6545-495C-80FA-B8440EE58692}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF8C6E-6545-495C-80FA-B8440EE58692}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\output3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FDF8C6E-6545-495C-80FA-B8440EE58692}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\output3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF8C6E-6545-495C-80FA-B8440EE58692}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FDF8C6E-6545-495C-80FA-B8440EE58692}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output3.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\output3.txt",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\output3.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\output3.txt",
+              "RelativeToolTip": "ConsoleApplication1\\output3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-03T20:01:39.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\input.txt",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\input.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\input.txt*",
+              "RelativeToolTip": "ConsoleApplication1\\input.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-03T20:01:27.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\hometasksss\\hometask3\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp*",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T20:01:14.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
